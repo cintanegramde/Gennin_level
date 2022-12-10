@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "bcrypt": "^3.0.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "graphql-import": "^0.7.1",
     "graphql-tools": "^4.0.4",
     "graphql-yoga": "^1.17.4",
